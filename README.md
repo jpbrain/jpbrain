@@ -11,7 +11,7 @@ Always open to help, collaboration and innovative projects.
 
 \#FullStack 
 <br>
-### Languages
+### Languages, technologies, OS, etc
 [![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow)](https://github.com/jpbrain)
 [![JavaScript](https://img.shields.io/badge/javascript-blue?style=for-the-badge&logo=javascript)](https://github.com/jpbrain)
 [![Java](https://img.shields.io/badge/java-blue?style=for-the-badge&logo=openjdk&logoColor=red)](https://github.com/jpbrain)
@@ -22,7 +22,10 @@ Always open to help, collaboration and innovative projects.
 [![AWK](https://img.shields.io/badge/awk-blue?style=for-the-badge&logo=gnu-awk&logoColor=green)](https://github.com/jpbrain)
 [![HTML](https://img.shields.io/badge/html-blue?style=for-the-badge&logo=HTML5&logoColor=orange)](https://github.com/jpbrain)
 [![CSS](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=CSS3&logoColor=lightgrey)](https://github.com/jpbrain)
-[![SQL](https://img.shields.io/badge/sql-blue?style=for-the-badge&logo=mysql&logoColor=white)]([https://github.com/jpbrain](https://askubuntu.com/users/1316539/jpbrain))
+[![SQL](https://img.shields.io/badge/sql-blue?style=for-the-badge&logo=mysql&logoColor=white)]([https://github.com/jpbrain]
+[![Linux](https://img.shields.io/badge/linux-blue?style=for-the-badge&logo=Linux)](https://github.com/jpbrain)
+[![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=Windows)](https://github.com/jpbrain)
+
 <br>
 ### Communities
 [![Ask Ubuntu](https://img.shields.io/badge/Ask_Ubuntu-blue?style=for-the-badge&logo=AskUbuntu)](https://askubuntu.com/users/1316539/jpbrain)
