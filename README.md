@@ -21,7 +21,7 @@ Always open to help, collaboration and innovateive projects.
 [![AWK](https://img.shields.io/badge/awk-blue?style=for-the-badge&logo=gnu-awk&logoColor=green)](https://github.com/jpbrain)
 [![HTML](https://img.shields.io/badge/html-blue?style=for-the-badge&logo=HTML5&logoColor=orange)](https://github.com/jpbrain)
 [![CSS](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=CSS3&logoColor=lightgrey)](https://github.com/jpbrain)
-[![SQL](https://img.shields.io/badge/sql-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/jpbrain)
+[![SQL](https://img.shields.io/badge/sql-blue?style=for-the-badge&logo=mysql&logoColor=white)]([https://github.com/jpbrain](https://askubuntu.com/users/1316539/jpbrain))
 <br>
 ### Other 
-[![AskUbuntu](https://img.shields.io/badge/AskUbuntu-blue?style=for-the-badge&logo=AskUbuntu&logoColor=white)](https://github.com/jpbrain)
+[![Ask Ubuntu](https://img.shields.io/badge/AskUbuntu-blue?style=for-the-badge&logo=AskUbuntu&logoColor=burgundy)](https://askubuntu.com/users/1316539/jpbrain)
