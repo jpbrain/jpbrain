@@ -24,4 +24,4 @@ Always open to help, collaboration and innovateive projects.
 [![SQL](https://img.shields.io/badge/sql-blue?style=for-the-badge&logo=mysql&logoColor=white)]([https://github.com/jpbrain](https://askubuntu.com/users/1316539/jpbrain))
 <br>
 ### Communities
-[![Ask Ubuntu](https://img.shields.io/badge/AskUbuntu-blue?style=for-the-badge&logo=AskUbuntu&logoColor=burgundy)](https://askubuntu.com/users/1316539/jpbrain)
+[![Ask Ubuntu](https://img.shields.io/badge/Ask_Ubuntu-blue?style=for-the-badge&logo=AskUbuntu&logoColor=burgundy)](https://askubuntu.com/users/1316539/jpbrain)
