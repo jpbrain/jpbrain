@@ -29,6 +29,11 @@ Always open to help, collaboration and innovateive projects.
 [![Stack Exchange](https://img.shields.io/badge/Stack_Exchange-blue?style=for-the-badge&logo=StackExchange)](https://stackexchange.com/users/21893847/jpbrain)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-blue?style=for-the-badge&logo=StackOverflow)](https://stackoverflow.com/users/16810670/jpbrain)
 [![Hackster](https://img.shields.io/badge/Hackster-blue?style=for-the-badge&logo=Hackster)](https://www.hackster.io/jpbrain)
+<br>
+### Music
+[![MixCloud](https://img.shields.io/badge/Mix_Cloud-blue?style=for-the-badge&logo=Mixcloud)](https://www.mixcloud.com/jpbrain/)
+[![SoundCloud](https://img.shields.io/badge/Sound_Cloud-blue?style=for-the-badge&logo=Soundcloud)](https://soundcloud.com/jpbrain)
+
 
 
 
