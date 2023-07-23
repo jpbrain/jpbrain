@@ -19,7 +19,7 @@ Always open to help, collaboration and innovateive projects.
 [![php](https://img.shields.io/badge/php-darkblue?style=for-the-badge&logo=php&logoColor=violet)](https://github.com/jpbrain)
 [![Bash](https://img.shields.io/badge/bash-blue?style=for-the-badge&logo=gnu-bash&logoColor=green)](https://github.com/jpbrain)
 [![AWK](https://img.shields.io/badge/awk-blue?style=for-the-badge&logo=gnu-awk&logoColor=green)](https://github.com/jpbrain)
-[![HTML](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=HTML&logoColor=white)](https://github.com/jpbrain)
-[![CSS](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=CSS&logoColor=white)](https://github.com/jpbrain)
+[![HTML](https://img.shields.io/badge/html-blue?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/jpbrain)
+[![CSS](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=CSS3&logoColor=white)](https://github.com/jpbrain)
 [![SQL](https://img.shields.io/badge/sql-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/jpbrain)
 
