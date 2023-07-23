@@ -23,5 +23,5 @@ Always open to help, collaboration and innovateive projects.
 [![CSS](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=CSS3&logoColor=lightgrey)](https://github.com/jpbrain)
 [![SQL](https://img.shields.io/badge/sql-blue?style=for-the-badge&logo=mysql&logoColor=white)]([https://github.com/jpbrain](https://askubuntu.com/users/1316539/jpbrain))
 <br>
-### Other 
+### Communities
 [![Ask Ubuntu](https://img.shields.io/badge/AskUbuntu-blue?style=for-the-badge&logo=AskUbuntu&logoColor=burgundy)](https://askubuntu.com/users/1316539/jpbrain)
