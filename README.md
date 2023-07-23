@@ -24,7 +24,15 @@ Always open to help, collaboration and innovateive projects.
 [![SQL](https://img.shields.io/badge/sql-blue?style=for-the-badge&logo=mysql&logoColor=white)]([https://github.com/jpbrain](https://askubuntu.com/users/1316539/jpbrain))
 <br>
 ### Communities
-[![Ask Ubuntu](https://img.shields.io/badge/Ask_Ubuntu-blue?style=for-the-badge&logo=AskUbuntu&logoColor=burgundy)](https://askubuntu.com/users/1316539/jpbrain)
-[![Stack Exchange](https://img.shields.io/badge/Stack_Exchange-blue?style=for-the-badge&logo=StackExchange&logoColor=burgundy)](https://stackexchange.com/users/21893847/jpbrain)
+[![Ask Ubuntu](https://img.shields.io/badge/Ask_Ubuntu-blue?style=for-the-badge&logo=AskUbuntu)](https://askubuntu.com/users/1316539/jpbrain)
+[![Stack Exchange](https://img.shields.io/badge/Stack_Exchange-blue?style=for-the-badge&logo=StackExchange)](https://stackexchange.com/users/21893847/jpbrain)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-blue?style=for-the-badge&logo=StackOverflow)](https://stackoverflow.com/users/16810670/jpbrain)
+[![Hackster](https://img.shields.io/badge/Hackster-blue?style=for-the-badge&logo=Hackster)](https://www.hackster.io/jpbrain)
+
+
+
+
+
+
 
 
