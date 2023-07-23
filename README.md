@@ -1,5 +1,5 @@
 <h1>Welcome</h1><br>
-(under construction)<br>
+<a href="https://www.linkedin.com/in/juanpablojadue"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"><br>
 I am JP.<br>
 I am currently working in building my Github profile and portfolio.<br>
 Although, I have held different positions on my career, I have never quit developing software and learning about technology. 
