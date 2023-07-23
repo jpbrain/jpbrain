@@ -25,3 +25,6 @@ Always open to help, collaboration and innovateive projects.
 <br>
 ### Communities
 [![Ask Ubuntu](https://img.shields.io/badge/Ask_Ubuntu-blue?style=for-the-badge&logo=AskUbuntu&logoColor=burgundy)](https://askubuntu.com/users/1316539/jpbrain)
+[![Stack Exchange](https://img.shields.io/badge/Stack_Exchange-blue?style=for-the-badge&logo=StackExchange&logoColor=burgundy)](https://stackexchange.com/users/21893847/jpbrain)
+
+
