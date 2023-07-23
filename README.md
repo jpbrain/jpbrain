@@ -16,6 +16,6 @@ Always open to help, collaboration and innovateive projects.
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/jpbrain)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/jpbrain)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/jpbrain)
-[![Bash](https://img.shields.io/badge/bash-bllightblue?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/jpbrain)
-[![SQL](https://img.shields.io/badge/sql-bllue?style=for-the-badge&logo=mysql)](https://github.com/jpbrain)
+[![Bash](https://img.shields.io/badge/bash-lightblue?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/jpbrain)
+[![SQL](https://img.shields.io/badge/sql-blue?style=for-the-badge&logo=mysql)](https://github.com/jpbrain)
 
