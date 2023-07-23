@@ -9,8 +9,8 @@ I also have some projects on micro electronics for IoT and automations developme
 I can code in C, C++ C#, python, javasricpt, java and other languajes as well. I have been also working on Devops and Infrasestructure as code development.
 Always open to help, collaboration and innovateive projects.
 
-
-
+\#FullStack 
+<br>
 ### Languages
 [![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow)](https://github.com/jpbrain)
 [![JavaScript](https://img.shields.io/badge/javascript-blue?style=for-the-badge&logo=javascript)](https://github.com/jpbrain)
@@ -31,10 +31,10 @@ Always open to help, collaboration and innovateive projects.
 [![Hackster](https://img.shields.io/badge/Hackster-blue?style=for-the-badge&logo=Hackster)](https://www.hackster.io/jpbrain)
 <br>
 ### Music
-[![MixCloud](https://img.shields.io/badge/Mix_Cloud-blue?style=for-the-badge&logo=Mixcloud)](https://www.mixcloud.com/jpbrain/)
+[![MixCloud](https://img.shields.io/badge/Mix_Cloud-blue?style=for-the-badge&logo=Mixcloud%logoColor=Violet)](https://www.mixcloud.com/jpbrain/)
 [![SoundCloud](https://img.shields.io/badge/Sound_Cloud-blue?style=for-the-badge&logo=Soundcloud)](https://soundcloud.com/jpbrain)
 
-\#FullStack
+
 
 
 
