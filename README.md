@@ -9,7 +9,7 @@ I also have some projects on micro electronics for IoT and automations developme
 I can code in C, C++ C#, python, javasricpt, java and other languajes as well. I have been also working on Devops and Infrasestructure as code development.
 Always open to help, collaboration and innovateive projects.
 
-<center>
+
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/jpbrain)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/jpbrain)
@@ -18,4 +18,4 @@ Always open to help, collaboration and innovateive projects.
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/jpbrain)
 [![Bash](https://img.shields.io/badge/bash-bllightblue?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/jpbrain)
 [![SQL](https://img.shields.io/badge/sql-bllue?style=for-the-badge&logo=mysql)](https://github.com/jpbrain)
-</center>
+
