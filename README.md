@@ -31,7 +31,7 @@ Always open to help, collaboration and innovateive projects.
 [![Hackster](https://img.shields.io/badge/Hackster-blue?style=for-the-badge&logo=Hackster)](https://www.hackster.io/jpbrain)
 <br>
 ### Music
-[![MixCloud](https://img.shields.io/badge/Mix_Cloud-blue?style=for-the-badge&logo=Mixcloud%logoColor=Violet)](https://www.mixcloud.com/jpbrain/)
+[![MixCloud](https://img.shields.io/badge/Mix_Cloud-blue?style=for-the-badge&logo=Mixcloud&logoColor=violet)](https://www.mixcloud.com/jpbrain/)
 [![SoundCloud](https://img.shields.io/badge/Sound_Cloud-blue?style=for-the-badge&logo=Soundcloud)](https://soundcloud.com/jpbrain)
 
 
