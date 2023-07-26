@@ -8,9 +8,8 @@ I use Linux as my desktop operating system and I have build my own development a
 I also have some projects on micro electronics for IoT and automation development. 
 I can code in C, C++ C#, python, javasricpt, java and other languajes as well. I have been also working on Devops and Infrasestructure as code development.
 Always open to help, collaboration and innovative projects.
-(FullStack)
+(FullStack)<br>
 
-<br>
 ###Languages, technologies, OS, etc.<br>
 [![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow)](https://github.com/jpbrain)
 [![JavaScript](https://img.shields.io/badge/javascript-blue?style=for-the-badge&logo=javascript)](https://github.com/jpbrain)
@@ -26,8 +25,8 @@ Always open to help, collaboration and innovative projects.
 [![Linux](https://img.shields.io/badge/linux-blue?style=for-the-badge&logo=Linux)](https://github.com/jpbrain)
 [![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=Windows)](https://github.com/jpbrain)
 [![Grafana](https://img.shields.io/badge/Grafana-blue?style=for-the-badge&logo=Grafana)](https://github.com/jpbrain)
-
 <br>
+
 ###Communities
 [![Ask Ubuntu](https://img.shields.io/badge/Ask_Ubuntu-blue?style=for-the-badge&logo=AskUbuntu)](https://askubuntu.com/users/1316539/jpbrain)
 [![Stack Exchange](https://img.shields.io/badge/Stack_Exchange-blue?style=for-the-badge&logo=StackExchange)](https://stackexchange.com/users/21893847/jpbrain)
