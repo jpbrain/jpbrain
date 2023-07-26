@@ -11,8 +11,7 @@ Always open to help, collaboration and innovative projects.
 (FullStack)
 
 <br>
-### Languages, technologies, OS, etc.<br>
-
+###Languages, technologies, OS, etc.<br>
 [![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow)](https://github.com/jpbrain)
 [![JavaScript](https://img.shields.io/badge/javascript-blue?style=for-the-badge&logo=javascript)](https://github.com/jpbrain)
 [![Java](https://img.shields.io/badge/java-blue?style=for-the-badge&logo=openjdk&logoColor=red)](https://github.com/jpbrain)
@@ -29,8 +28,7 @@ Always open to help, collaboration and innovative projects.
 [![Grafana](https://img.shields.io/badge/Grafana-blue?style=for-the-badge&logo=Grafana)](https://github.com/jpbrain)
 
 <br>
-### Communities
-
+###Communities
 [![Ask Ubuntu](https://img.shields.io/badge/Ask_Ubuntu-blue?style=for-the-badge&logo=AskUbuntu)](https://askubuntu.com/users/1316539/jpbrain)
 [![Stack Exchange](https://img.shields.io/badge/Stack_Exchange-blue?style=for-the-badge&logo=StackExchange)](https://stackexchange.com/users/21893847/jpbrain)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-blue?style=for-the-badge&logo=StackOverflow)](https://stackoverflow.com/users/16810670/jpbrain)
@@ -38,7 +36,6 @@ Always open to help, collaboration and innovative projects.
 <br>
 
 ### Music
-
 [![MixCloud](https://img.shields.io/badge/Mix_Cloud-blue?style=for-the-badge&logo=Mixcloud&logoColor=violet)](https://www.mixcloud.com/jpbrain/)
 [![SoundCloud](https://img.shields.io/badge/Sound_Cloud-blue?style=for-the-badge&logo=Soundcloud)](https://soundcloud.com/jpbrain)
 
