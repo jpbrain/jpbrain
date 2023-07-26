@@ -8,8 +8,8 @@ I use Linux as my desktop operating system and I have build my own development a
 I also have some projects on micro electronics for IoT and automation development. 
 I can code in C, C++ C#, python, javasricpt, java and other languajes as well. I have been also working on Devops and Infrasestructure as code development.
 Always open to help, collaboration and innovative projects.
-
 \#FullStack 
+
 <br>
 ### Languages, technologies, OS, etc
 [![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow)](https://github.com/jpbrain)
