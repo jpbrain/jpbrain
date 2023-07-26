@@ -11,7 +11,7 @@ Always open to help, collaboration and innovative projects.
 (FullStack)
 
 <br>
-### Languages, technologies, OS, etc
+### Languages, technologies, OS, etc.<br>
 [![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow)](https://github.com/jpbrain)
 [![JavaScript](https://img.shields.io/badge/javascript-blue?style=for-the-badge&logo=javascript)](https://github.com/jpbrain)
 [![Java](https://img.shields.io/badge/java-blue?style=for-the-badge&logo=openjdk&logoColor=red)](https://github.com/jpbrain)
