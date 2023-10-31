@@ -14,7 +14,7 @@ Always open to help, collaboration and innovative projects.
 ### Languages, technologies, OS, etc.<br>
 [![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow)](https://github.com/jpbrain)
 [![JavaScript](https://img.shields.io/badge/javascript-blue?style=for-the-badge&logo=javascript)](https://github.com/jpbrain)
-[![NodeJS](https://img.shields.io/badge/nodejs-blue?style=for-the-badge&logo=nodejs)](https://github.com/jpbrain)
+[![NodeJS](https://img.shields.io/badge/nodejs-blue?style=for-the-badge&logo=nodedotjs)](https://github.com/jpbrain)
 [![Java](https://img.shields.io/badge/java-blue?style=for-the-badge&logo=openjdk&logoColor=red)](https://github.com/jpbrain)
 [![C++](https://img.shields.io/badge/c++-blue?style=for-the-badge&logo=cplusplus&logoColor=lightviolet)](https://github.com/jpbrain)
 [![C](https://img.shields.io/badge/c-blue?style=for-the-badge&logo=c&logoColor=lightgrey)](https://github.com/jpbrain)
