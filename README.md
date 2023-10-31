@@ -28,6 +28,7 @@ Always open to help, collaboration and innovative projects.
 [![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=Windows)](https://github.com/jpbrain)
 [![Grafana](https://img.shields.io/badge/Grafana-blue?style=for-the-badge&logo=Grafana)](https://github.com/jpbrain)
 [![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker)](https://github.com/jpbrain)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)](https://github.com/jpbrain)
 <br>
 
 ### Communities
